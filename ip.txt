@@ -11,7 +11,7 @@ store.ubi.com#新加坡
 cf.090227.xyz#新加坡
 
 saas.sin.fan#日本
-cdns.doon.eu.org日本
+cdns.doon.eu.org#日本
 
 cf.130519.xyz#韩国
 
@@ -21,6 +21,7 @@ snipaste3.speedip.eu.org#德国
 snipaste5.speedip.eu.org#澳大利亚
 winter.x4v.dpdns.org#荷兰
 bestcf.030101.xyz#芬兰
+
 
 
 
