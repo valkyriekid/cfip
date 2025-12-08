@@ -13,7 +13,8 @@ cf.090227.xyz#新加坡
 saas.sin.fan#日本
 cdns.doon.eu.org#日本
 
-cf.130519.xyz##韩国
+cf.130519.xyz#韩国
+
 
 
 
