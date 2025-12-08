@@ -1,5 +1,26 @@
 snipaste4.speedip.eu.org:2083#自适应分流
 
+cf.008500.xyz#香港
+cf.877774.xyz#香港
+cf.zhetengsha.eu.org#香港
+
+sub.danfeng.eu.org#台湾
+
+mfa.gov.ua#新加坡
+store.ubi.com#新加坡
+cf.090227.xyz#新加坡
+
+saas.sin.fan#日本
+cdns.doon.eu.org#日本
+
+cf.130519.xyz#韩国
+
+snipaste1.speedip.eu.org#英国 
+snipaste2.speedip.eu.org#法国
+snipaste3.speedip.eu.org#德国
+snipaste5.speedip.eu.org#澳大利亚
+winter.x4v.dpdns.org#荷兰
+bestcf.030101.xyz#芬兰
 
 
 
