@@ -4,7 +4,7 @@ cf.008500.xyz#香港
 cf.877774.xyz#香港
 cf.zhetengsha.eu.org#香港
 
-sub.danfeng.eu.org#台湾
+sub.danfeng.eu.org#香港
 
 mfa.gov.ua#新加坡
 store.ubi.com#新加坡
@@ -13,13 +13,14 @@ cf.090227.xyz#新加坡
 saas.sin.fan#日本
 cdns.doon.eu.org#日本
 
-cf.130519.xyz#韩国
+cf.130519.xyz#美国
 162.159.45.151#美国
-snipaste1.speedip.eu.org:2096#英国 
-snipaste2.speedip.eu.org:2083#法国
-snipaste3.speedip.eu.org:2053#德国
-snipaste5.speedip.eu.org:8443#澳大利亚
-bestcf.030101.xyz#芬兰
+snipaste1.speedip.eu.org:2096#美国 
+snipaste2.speedip.eu.org:2083#美国
+snipaste3.speedip.eu.org:2053#美国
+snipaste5.speedip.eu.org:8443#美国
+bestcf.030101.xyz#美国
+
 
 
 
