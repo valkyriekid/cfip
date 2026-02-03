@@ -1,4 +1,4 @@
-snipaste4.speedip.eu.org#自适应分流
+snipaste4.speedip.eu.org#香港
 
 cf.008500.xyz#香港
 cf.877774.xyz#香港
@@ -20,6 +20,7 @@ snipaste2.speedip.eu.org:2083#美国
 snipaste3.speedip.eu.org:2053#美国
 snipaste5.speedip.eu.org:8443#美国
 bestcf.030101.xyz#美国
+
 
 
 
