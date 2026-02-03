@@ -19,8 +19,8 @@ snipaste1.speedip.eu.org:2096#英国
 snipaste2.speedip.eu.org:2083#法国
 snipaste3.speedip.eu.org:2053#德国
 snipaste5.speedip.eu.org:8443#澳大利亚
-winter.x4v.dpdns.org#荷兰
 bestcf.030101.xyz#芬兰
+
 
 
 
