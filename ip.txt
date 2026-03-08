@@ -1,7 +1,7 @@
-snipaste4.speedip.eu.org#香港A
+snipaste4.speedip.eu.org#香A
 
-cf.008500.xyz#香港B
-cf.877774.xyz#香港C
+cf.008500.xyz#香B
+cf.877774.xyz#香C
 cf.zhetengsha.eu.org#香港D
 
 sub.danfeng.eu.org#香港
@@ -20,6 +20,7 @@ snipaste2.speedip.eu.org:2083#美国
 snipaste3.speedip.eu.org:2053#美国
 snipaste5.speedip.eu.org:8443#美国
 bestcf.030101.xyz#美国
+
 
 
 
