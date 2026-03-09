@@ -1,15 +1,16 @@
 saas.sin.fan#日本
 cf.008500.xyz#日本
 cf.877774.xyz#日本
-cf.130519.xyz#日本
-sub.danfeng.eu.org#日本
+
+
 snipaste4.speedip.eu.org#新加坡
 mfa.gov.ua#新加坡
 store.ubi.com#新加坡
 cf.090227.xyz#新加坡
-cdns.doon.eu.org#新加坡
-cf.zhetengsha.eu.org#新加坡
+
+172.64.52.96#新加坡
 83.229.122.218#香港
+
 
 
 
