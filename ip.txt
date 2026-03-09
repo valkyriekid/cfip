@@ -20,11 +20,8 @@ cf.090227.xyz#新加坡
 cdns.doon.eu.org#日本
 
 
-snipaste1.speedip.eu.org:2096#美国 
-snipaste2.speedip.eu.org:2083#美国
-snipaste3.speedip.eu.org:2053#美国
-snipaste5.speedip.eu.org:8443#美国
-bestcf.030101.xyz#美国
+
+
 
 
 
