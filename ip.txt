@@ -9,6 +9,7 @@ store.ubi.com#新加坡
 cf.090227.xyz#新加坡
 cdns.doon.eu.org#新加坡
 cf.zhetengsha.eu.org#新加坡
+83.229.122.218#香港
 
 
 
